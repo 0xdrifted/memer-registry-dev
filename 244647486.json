@@ -1,0 +1,14 @@
+{
+  "token_address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut7z",
+  "token_symbol": "SAYLOR",
+  "token_name": "SaylorCoin",
+  "token_icon": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_400x400.jpg",
+  "twitter_username": "saylor",
+  "twitter_user_id": "244647486",
+  "created_date": "2025-08-01T09:21:13Z",
+  "price": 0.021000,
+  "is_graduated": false,
+  "graduation_progress": 81.2,
+  "price_change_24h": null,
+  "volume_24h": null
+}

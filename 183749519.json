@@ -1,0 +1,14 @@
+{
+  "token_address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+  "token_symbol": "PG",
+  "token_name": "PaulGraham",
+  "token_icon": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
+  "twitter_username": "paulg",
+  "twitter_user_id": "183749519",
+  "created_date": "2025-08-11T09:32:15Z",
+  "price": 0.001005,
+  "is_graduated": false,
+  "graduation_progress": 28.5,
+  "price_change_24h": null,
+  "volume_24h": null
+}

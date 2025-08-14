@@ -1,0 +1,14 @@
+{
+  "token_address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+  "token_symbol": "SUNDAR",
+  "token_name": "PichaiToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_400x400.jpg",
+  "twitter_username": "sundarpichai",
+  "twitter_user_id": "14130366",
+  "created_date": "2025-08-07T12:30:58Z",
+  "price": 0.02850,
+  "is_graduated": false,
+  "graduation_progress": 88.9,
+  "price_change_24h": null,
+  "volume_24h": null
+}

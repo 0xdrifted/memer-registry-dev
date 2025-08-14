@@ -1,0 +1,14 @@
+{
+  "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+  "token_symbol": "SAMA",
+  "token_name": "SamaToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_400x400.jpg",
+  "twitter_username": "sama",
+  "twitter_user_id": "4398626122",
+  "created_date": "2025-08-12T16:45:22Z",
+  "price": 0.001802,
+  "is_graduated": false,
+  "graduation_progress": 42.8,
+  "price_change_24h": null,
+  "volume_24h": null
+}

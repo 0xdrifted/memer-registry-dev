@@ -1,0 +1,14 @@
+{
+  "token_address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+  "token_symbol": "REID",
+  "token_name": "HoffmanToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1925285712339116037/hKfjpTSa_400x400.jpg",
+  "twitter_username": "reidhoffman",
+  "twitter_user_id": "10078",
+  "created_date": "2025-08-13T20:15:07Z",
+  "price": 0.000894,
+  "is_graduated": false,
+  "graduation_progress": 22.1,
+  "price_change_24h": null,
+  "volume_24h": null
+}

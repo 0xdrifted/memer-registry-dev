@@ -1,0 +1,14 @@
+{
+  "token_address": "LDj7atdThKgKoWd1CySP84LsYP4Nxg3A6BF9eBQn5LM",
+  "token_symbol": "BEN",
+  "token_name": "HorowitzCoin",
+  "token_icon": "https://pbs.twimg.com/profile_images/1438305416853614593/5t9Peejn_400x400.jpg",
+  "twitter_username": "bhorowitz",
+  "twitter_user_id": "16242081",
+  "created_date": "2025-08-14T07:42:29Z",
+  "price": 0.000678,
+  "is_graduated": false,
+  "graduation_progress": 15.9,
+  "price_change_24h": null,
+  "volume_24h": null
+}
