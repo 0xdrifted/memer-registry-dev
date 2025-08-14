@@ -1,0 +1,14 @@
+{
+  "token_address": "IBRAHJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+  "token_symbol": "IBRA",
+  "token_name": "IbrahimovicToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1954952961433513984/2q07ZuvW_400x400.jpg",
+  "twitter_username": "Ibra_official",
+  "twitter_user_id": "461922813",
+  "created_date": "2025-07-03T17:35:29Z",
+  "price": 0.035670,
+  "is_graduated": true,
+  "graduation_progress": 100.0,
+  "price_change_24h": 43.8,
+  "volume_24h": 690000
+}

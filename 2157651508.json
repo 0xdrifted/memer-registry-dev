@@ -1,0 +1,14 @@
+{
+  "token_address": "HAALANDrrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+  "token_symbol": "ERLING",
+  "token_name": "HaalandToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1927842220918382592/OWxaGF-r_400x400.jpg",
+  "twitter_username": "ErlingHaaland",
+  "twitter_user_id": "2157651508",
+  "created_date": "2025-07-14T14:21:37Z",
+  "price": 0.027485,
+  "is_graduated": true,
+  "graduation_progress": 100.0,
+  "price_change_24h": 19.2,
+  "volume_24h": 620000
+}

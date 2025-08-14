@@ -1,0 +1,14 @@
+{
+  "token_address": "KROOSrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "token_symbol": "TONI",
+  "token_name": "KroosToken",
+  "token_icon": "https://pbs.twimg.com/profile_images/1144875187508338688/0MtdI4-f_400x400.jpg",
+  "twitter_username": "ToniKroos",
+  "twitter_user_id": "330446733",
+  "created_date": "2025-07-06T08:25:41Z",
+  "price": 0.014780,
+  "is_graduated": true,
+  "graduation_progress": 100.0,
+  "price_change_24h": 6.2,
+  "volume_24h": 470000
+}
