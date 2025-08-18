@@ -8,7 +8,8 @@
     "twitter_user_id": "155659213",
     "price": 0.045678,
     "price_change_24h": 24.5,
-    "volume_24h": 2850000
+    "volume_24h": 2850000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "FABROMbZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB",
@@ -19,7 +20,8 @@
     "twitter_user_id": "330262748",
     "price": 0.028945,
     "price_change_24h": 18.7,
-    "volume_24h": 1950000
+    "volume_24h": 1950000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "NEYMARx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
@@ -30,7 +32,8 @@
     "twitter_user_id": "158487331",
     "price": 0.037825,
     "price_change_24h": -8.3,
-    "volume_24h": 1650000
+    "volume_24h": 1650000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "MBAPPEvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
@@ -41,7 +44,8 @@
     "twitter_user_id": "1725137533",
     "price": 0.042100,
     "price_change_24h": 31.2,
-    "volume_24h": 1480000
+    "volume_24h": 1480000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "RAMOSJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
@@ -52,7 +56,8 @@
     "twitter_user_id": "151123001",
     "price": 0.025680,
     "price_change_24h": 12.4,
-    "volume_24h": 1320000
+    "volume_24h": 1320000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "RASHFqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -63,7 +68,8 @@
     "twitter_user_id": "734492654755577858",
     "price": 0.019875,
     "price_change_24h": -5.8,
-    "volume_24h": 1150000
+    "volume_24h": 1150000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "DEGEAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
@@ -74,7 +80,8 @@
     "twitter_user_id": "265982289",
     "price": 0.013245,
     "price_change_24h": 7.9,
-    "volume_24h": 980000
+    "volume_24h": 980000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "BRUNOCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
@@ -85,7 +92,8 @@
     "twitter_user_id": "1123232834376933376",
     "price": 0.022340,
     "price_change_24h": 15.6,
-    "volume_24h": 875000
+    "volume_24h": 875000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "RIOFERDQdwNPddxPWszn3zFhEot3MfL9fns",
@@ -96,7 +104,8 @@
     "twitter_user_id": "155927976",
     "price": 0.008950,
     "price_change_24h": -12.3,
-    "volume_24h": 750000
+    "volume_24h": 750000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "IBRAHJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
@@ -107,7 +116,8 @@
     "twitter_user_id": "461922813",
     "price": 0.035670,
     "price_change_24h": 43.8,
-    "volume_24h": 690000
+    "volume_24h": 690000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "HAALANDrrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
@@ -118,7 +128,8 @@
     "twitter_user_id": "2157651508",
     "price": 0.027485,
     "price_change_24h": 19.2,
-    "volume_24h": 620000
+    "volume_24h": 620000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "VINIJRJADk17DUJ4ksgau7utNKj4b963voxs",
@@ -129,7 +140,8 @@
     "twitter_user_id": "2329070186",
     "price": 0.018920,
     "price_change_24h": 8.4,
-    "volume_24h": 580000
+    "volume_24h": 580000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "BENZEMAMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
@@ -140,7 +152,8 @@
     "twitter_user_id": "1964571728",
     "price": 0.031250,
     "price_change_24h": -15.7,
-    "volume_24h": 515000
+    "volume_24h": 515000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "KROOSrF4H2FYD4KCoNkY11McCe8BenwNYB",
@@ -151,7 +164,8 @@
     "twitter_user_id": "330446733",
     "price": 0.014780,
     "price_change_24h": 6.2,
-    "volume_24h": 470000
+    "volume_24h": 470000,
+    "dex_link": "https://raydium.io/swap/"
   },
   {
     "token_address": "MAGUIRESSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -162,6 +176,7 @@
     "twitter_user_id": "875327508190818307",
     "price": 0.009340,
     "price_change_24h": -22.1,
-    "volume_24h": 420000
+    "volume_24h": 420000,
+    "dex_link": "https://raydium.io/swap/"
   }
 ]
