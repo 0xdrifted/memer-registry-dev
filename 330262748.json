@@ -10,5 +10,6 @@
   "is_graduated": true,
   "graduation_progress": 100.0,
   "price_change_24h": 18.7,
-  "volume_24h": 1950000
+  "volume_24h": 1950000,
+  "dex_link": "https://raydium.io/swap/"
 }
